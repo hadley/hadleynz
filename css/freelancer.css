@@ -101,7 +101,7 @@ section { margin: 30px 0; }
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    background-color: #001447;
+    background-color: #00184D;
 }
 
 .navbar a:focus {
@@ -124,23 +124,7 @@ section { margin: 30px 0; }
 /* Footer ------------------------------------------------------------------- */
 
 footer {
-    color: #fff;
-}
-
-footer h3 {
-    margin-bottom: 30px;
-}
-
-footer .footer-above {
-    padding-top: 50px;
-    background-color: #001447;
-}
-
-footer .footer-col {
-    margin-bottom: 50px;
-}
-
-footer .footer-below {
-    padding: 25px 0;
-    background-color: #233140;
+  color: #fff;
+  background-color: #00184D;
+  padding: 25px 0;
 }

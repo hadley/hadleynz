@@ -25,7 +25,7 @@ jobs:
       - uses: r-lib/actions/setup-r-dependencies@v2
 
       - name: Render Rmarkdown files
-        run: rmarkdown::render("index.Rmd", output_dir = "docs")
+        run: rmarkdown::render("site/index.Rmd")
         shell: Rscript {0}
 
       - name: Deploy to GitHub pages 🚀

@@ -2,8 +2,10 @@
 title: "Hadley Wickham"
 image: "hadley.jpg"
 links:
-  - label: Twitter
-    url: "https://twitter.com/hadleywickham"
+  - label: Bluesky
+    url: "https://bsky.app/profile/hadleywickham.bsky.social"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/hadleywickham/"
   - label: GitHub
     url: "https://github.com/hadley"
   - label: Email

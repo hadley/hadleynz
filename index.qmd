@@ -1,17 +1,17 @@
 ---
 title: "Hadley Wickham"
 image: "hadley.jpg"
-links:
-  - label: Bluesky
-    url: "https://bsky.app/profile/hadleywickham.bsky.social"
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/hadleywickham/"
-  - label: GitHub
-    url: "https://github.com/hadley"
-  - label: Email
-    url: "mailto:hadley@rstudio.com"
-output:
-  postcards::trestles
+about:
+  template: trestles
+  links:
+  - text: Bluesky
+    href: "https://bsky.app/profile/hadleywickham.bsky.social"
+  - text: LinkedIn
+    href: "https://www.linkedin.com/in/hadleywickham/"
+  - text: GitHub
+    href: "https://github.com/hadley"
+  - text: Email
+    href: "mailto:hadley@rstudio.com"
 ---
 
 Hi!
@@ -27,7 +27,7 @@ If you'd like to learn more about what I do, and how to use R effectively, you m
 
 -   [Advanced R](http://adv-r.hadley.nz/) helps you master R as a programming language, teaching you what makes R tick.
 
--   [R packages](http://r-pkgs.org/), with [Jenny Bryan](https://jennybryan.org/about/), teaches good software engineering practices for R, using packages for bundling, documenting, and testing your code.
+-   [R Packages](http://r-pkgs.org/), with [Jenny Bryan](https://jennybryan.org/about/), teaches good software engineering practices for R, using packages for bundling, documenting, and testing your code.
 
 Outside of work, I love to [bake](https://recipes.had.co.nz) and make [cocktails](https://cocktails.hadley.nz).
 My sister [Charlotte](http://cwick.co.nz/) also works for Posit as a Developer Educator.

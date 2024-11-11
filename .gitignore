@@ -1,5 +1,5 @@
 .Rproj.user
 .Rhistory
 .RData
-bio.html
-index.html
+/.quarto/
+_site/

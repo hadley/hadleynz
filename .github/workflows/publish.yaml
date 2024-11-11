@@ -7,10 +7,10 @@ on:
     branches: [main, master]
   workflow_dispatch:
 
-name: render.yaml
+name: publish.yaml
 
 jobs:
-  render:
+  publish:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}

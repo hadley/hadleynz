@@ -4,14 +4,14 @@ image: "hadley.jpg"
 about:
   template: trestles
   links:
+  - text: GitHub
+    href: "https://github.com/hadley"
   - text: Bluesky
     href: "https://bsky.app/profile/hadleywickham.bsky.social"
   - text: LinkedIn
     href: "https://www.linkedin.com/in/hadleywickham/"
-  - text: GitHub
-    href: "https://github.com/hadley"
   - text: Email
-    href: "mailto:hadley@rstudio.com"
+    href: "mailto:hadley@posit.co"
 ---
 
 Hi!

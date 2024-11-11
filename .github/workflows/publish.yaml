@@ -21,7 +21,7 @@ jobs:
       - uses: r-lib/actions/setup-r-dependencies@v2
       - uses: quarto-dev/quarto-actions/setup@v2
 
-      - uses: uses: quarto-dev/quarto-actions/render@v2
+      - uses: quarto-dev/quarto-actions/render@v2
 
       - name: Deploy to GitHub pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4.5.0

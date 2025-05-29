@@ -7,7 +7,7 @@ about:
   - text: GitHub
     href: "https://github.com/hadley"
   - text: Bluesky
-    href: "https://bsky.app/profile/hadleywickham.bsky.social"
+    href: "https://bsky.app/profile/hadley.nz"
   - text: LinkedIn
     href: "https://www.linkedin.com/in/hadleywickham/"
   - text: Email

@@ -23,6 +23,11 @@ jobs:
 
       - uses: quarto-dev/quarto-actions/render@v2
 
+      - name: Copy public key
+        run: |
+          mkdir -p _site/.well-known/appspecific
+          cp com.tesla.3p.public-key.pem _site/.well-known/appspecific
+
       - name: Deploy to GitHub pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:
